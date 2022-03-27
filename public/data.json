@@ -1,0 +1,65 @@
+[
+    {
+      "id": "623ed1698b2f11b1ef70e90a",
+      "img": "images/shopping (1).png",
+      "price": 140,
+      "name": "Classic",
+      "brand": "Nitro Tech"
+    },
+    {
+      "id": "623ed1696d66f06c9330bf98",
+      "img": "images/shopping (2).png",
+      "price": 210,
+      "name": "Gucci",
+      "brand": "MP"
+    },
+    {
+      "id": "623ed16956d8e91487be8a1a",
+      "img": "images/shopping (3).png",
+      "price": 250,
+      "name": "Classic",
+      "brand": "Nitro Tech"
+    },
+    {
+      "id": "623ed169233119cdf7da2426",
+      "img": "images/shopping (4).png",
+      "price": 240,
+      "name": "Luxury",
+      "brand": "My Protein"
+    },
+    {
+      "id": "623ed169617ee7c79411d6a5",
+      "img": "images/shopping (5).png",
+      "price": 350,
+      "name": "Lens",
+      "brand": "Nature's Bounty"
+    },
+    {
+      "id": "623ed1696909767baded7191",
+      "img": "images/shopping (6).png",
+      "price": 280,
+      "name": "Boss",
+      "brand": "Nitro Tech"
+    },
+    {
+      "id": "623ed1696909767bded7191",
+      "img": "images/shopping (7).png",
+      "price": 990,
+      "name": "Calvin klein",
+      "brand": "Beximco"
+    },
+    {
+      "id": "623ed1696909767baded7191",
+      "img": "images/shopping (8).png",
+      "price": 190,
+      "name": "Boss",
+      "brand": "My Protein"
+    },
+    {
+      "id": "623ed1696909767baded710",
+      "img": "images/shopping (9).png",
+      "price": 400,
+      "name": "D&G",
+      "brand": "Nitro Tech"
+    }
+  ]
